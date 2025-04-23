@@ -1,6 +1,5 @@
 # .gitignore
 backend/node_modules/
-front_end/node_modules/
 .env
 dist/
 build/
